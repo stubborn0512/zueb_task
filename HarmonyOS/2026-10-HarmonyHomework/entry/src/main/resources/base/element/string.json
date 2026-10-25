@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "HarmonyOS 课程综合作业" },
+    { "name": "EntryAbility_desc", "value": "应用入口" },
+    { "name": "EntryAbility_label", "value": "HarmonyHomework" }
+  ]
+}
