@@ -1,0 +1,1 @@
+# 作业一：Gesture 手势\n\n工程入口页面：`entry/src/main/ets/pages/Index.ets`。\n\n按原始作业要求包括：TapGesture 双击放大图片、PinchGesture 双指捏合、PanGesture 列表侧滑删除、PanGesture 控件跟随手指拖拽。\n\n为保证工程完整性，归档采用整个可编辑工程作为主备份，不把共享入口页面拆成独立源码片段。
