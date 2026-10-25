@@ -1,0 +1,1 @@
+# 作业三：Preferences 数据持久化\n\n工程入口页面：`entry/src/main/ets/pages/Index.ets`。\n\n按原始作业要求包含 Preference 实例初始化、存储数据、读取、删除数据以及 `flush()` 数据落盘操作，并使用 Preference XML 存储方式。\n\n为保证工程配置及页面状态不被拆坏，当前归档采用整个项目作为主备份。
