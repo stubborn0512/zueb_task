@@ -1,0 +1,1 @@
+本次归档来源于本会话最后一次提供的 HarmonyHomework-修复00303038最终包。\n\n修复历史包括 Hvigor 配置中必需 dependencies 字段与 app.label 资源引用格式。项目使用 DevEco Studio all-in-one 内置构建插件模式，不额外固定安装 @ohos/hvigor-ohos-plugin。\n\n验证说明：JSON/工程目录做过静态检查；没有在用户本机实际编译，不应标记为已在本机运行通过。若遇到 SDK 版本错误，请在 DevEco Studio SDK Manager 中核实 HarmonyOS 5.0.0 (API 12) 安装状态和实际 SDK 路径。
