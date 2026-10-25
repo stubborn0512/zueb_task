@@ -1,9 +1,1 @@
-{
-  "name": "entry",
-  "version": "1.0.0",
-  "description": "课程综合作业 entry 模块",
-  "main": "",
-  "author": "",
-  "license": "",
-  "dependencies": {}
-}
+{ "name": "entry", "version": "1.0.0", "description": "课程综合作业 entry 模块", "main": "", "author": "", "license": "", "dependencies": {} }
