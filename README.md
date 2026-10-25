@@ -10,6 +10,4 @@
 - 作业三：Preferences 初始化、存储、读取、删除与 flush 落盘。
 
 ## 验证状态
-源码和文本配置已提交，配置文件做过静态检查；没有在用户本机 Windows + DevEco Studio 环境实际编译运行。此前日志中出现过 SDK 路径、Hvigor 依赖和 Schema 错误，不能把归档说成已在本机验证通过。
-
-**二进制图标注意：** 当前 GitHub 连接的文件接口无法上传真实 PNG。目录中的 `AppScope/resources/base/media/app_icon.png` 是占位说明文本，不是有效 PNG。完整二进制素材仍在本会话提供的 ZIP 备份中；从 ZIP 解压真实图标覆盖该占位文件后，工程目录才完整。
+工程源码、文本配置和 PNG 图标已提交到 GitHub。JSON/目录做过静态检查；没有在用户本机 Windows + DevEco Studio 环境实际编译运行。此前日志出现过 SDK 路径、Hvigor 依赖和 Schema 错误，不能将归档描述为已在用户电脑验证通过。请打开工程目录中的 README 查看环境说明。
